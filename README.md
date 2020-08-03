@@ -2,13 +2,13 @@
 
 **Now Playing** on Spotify
 
-<a href="https://gitify.vercel.app/now-playing/now-playing?open">
+<a href="https://gitify.vercel.app/now-playing?open">
     <img src="https://gitify.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
 ### Hi there 👋
 
-Hi my name is Alexis, but known as Atzu or z3ro0k over the internet and I am a 16 year old "fullstack" developer that spends time coding and building websites. 
+Hi my name is Alexis, but known as Atzu or z3ro0k over the internet and I am a 19 year old "fullstack" developer that spends time coding and building websites. 
 I've been coding for around 4 years now and still on the road to learn more.
 
 ## Fun Facts
