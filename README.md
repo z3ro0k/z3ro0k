@@ -8,17 +8,21 @@
 
 ### Hi there 👋
 
-<!--
-**z3ro0k/z3ro0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi my name is Alexis, but known as Atzu or z3ro0k over the internet and I am a 16 year old "fullstack" developer that spends time coding and building websites. 
+I've been coding for around 4 years now and still on the road to learn more.
 
-Here are some ideas to get you started:
+## Fun Facts
+- I know the following languages: JavaScript, TypeScript, C#, Kotlin, Java, and Python
+- I plan to learn in the near future: Rust, Go, C++, and Dart
+- I work on too many stuff and never get them finished
+- You can reach me on [Twitter](https://twitter.com/MrAzurnex), on my [Discord](https://discord.gg/q99CQEP) server, or on [My Website](https://atzu.xyz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Maintained Projects
+> **Updated since 18/7/2020**
+
+- [Disbull.js](https://www.npmjs.com/package/disbull.js) - **DisBull is a useful module for making it easy to create Discord bots using discords.js v12.**
+- [Swiftcord](https://www.npmjs.com/package/swiftcord) - **Simple & easy to use image manipulation module.**
+- [Spotify Manager](https://www.npmjs.com/package/spotify-manager) - **A Node.js Wrapper for Spotify's Web Api easy to use**
+- [NextGen Club](https://bots.nextgenteam.xyz/) - **Find the best bot to spice up your Discord server!** [Work in Progress]
+- [Swift Clound](https://swiftclound.ml/) - **A modern hosted file upload service**
