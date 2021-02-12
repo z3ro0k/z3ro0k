@@ -25,4 +25,4 @@ I've been coding for around 4 years now and still on the road to learn more.
 - [Swiftcord](https://www.npmjs.com/package/swiftcord) - **Simple & easy to use image manipulation module.**
 - [Spotify Manager](https://www.npmjs.com/package/spotify-manager) - **A Node.js Wrapper for Spotify's Web Api easy to use**
 - [NextGen Club](https://bots.nextgenteam.xyz/) - **Find the best bot to spice up your Discord server!** [Work in Progress]
-
+- [Apis](https://apis.atzu.xyz/) - **Multiple APIs hosted in one place for personal use**
