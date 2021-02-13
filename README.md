@@ -26,3 +26,12 @@ I've been coding for around 4 years now and still on the road to learn more.
 - [Spotify Manager](https://www.npmjs.com/package/spotify-manager) - **A Node.js Wrapper for Spotify's Web Api easy to use**
 - [NextGen Club](https://bots.nextgenteam.xyz/) - **Find the best bot to spice up your Discord server!** [Work in Progress]
 - [Apis](https://apis.atzu.xyz/) - **Multiple APIs hosted in one place for personal use**
+
+## Personal Projects
+> **Updated since 12/02/2021**
+
+- [My Website](https://atzu.xyz/) 
+- [Apis](https://apis.atzu.xyz/)
+- [Spotify Server](https://spotify.atzu.xyz/now-playing)
+- [Sharex Server](https://i.atzu.xyz/) 
+- [Hastebin](https://apis.atzu.xyz/)  
