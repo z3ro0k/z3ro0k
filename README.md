@@ -1,3 +1,5 @@
+![](https://api.ghprofile.me/view?username=z3ro0k)
+
 ---
 
 **Now Playing** on Spotify
@@ -6,7 +8,9 @@
     <img src="https://spotify.atzu.xyz/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
-### Hi there 👋
+
+
+### Hi there 👋 
 
 Hi my name is Alexis, but known as Atzu or z3ro0k over the internet and I am a 19 year old "fullstack" developer that spends time coding and building websites. 
 I've been coding for around 4 years now and still on the road to learn more.
