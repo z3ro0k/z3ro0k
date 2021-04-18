@@ -34,7 +34,7 @@ I've been coding for around 4 years now and still on the road to learn more.
 > **Updated since 12/02/2021**
 
 - [My Website](https://atzu.studio/) 
-- [Apis](https://apis.atzu.xyz/)
+- [Apis](https://api.atzu.studio)
 - [Spotify Now Playing](https://spotify.atzu.studio/now-playing)
-- [Sharex Server](https://i.atzu.xyz/) 
+- [Sharex Server](https://i.atzu.studio/) 
 - [Hastebin](https://hb.atzu.studio/)  
