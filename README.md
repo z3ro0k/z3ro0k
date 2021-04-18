@@ -4,8 +4,8 @@
 
 **Now Playing** on Spotify
 
-<a href="https://spotify.atzu.xyz/now-playing?open">
-    <img src="https://spotify.atzu.xyz/now-playing" width="256" height="64" alt="Now Playing">
+<a href="https://spotify.atzu.studio/now-playing?open">
+    <img src="https://spotify.atzu.studio/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
 
@@ -19,7 +19,7 @@ I've been coding for around 4 years now and still on the road to learn more.
 - I know the following languages: JavaScript, TypeScript, C#, Kotlin, Java, and Python
 - I plan to learn in the near future: Rust, Go, C++, and Dart
 - I work on too many stuff and never get them finished
-- You can reach me on [Twitter](https://twitter.com/MrAzurnex), on my [Discord](https://discord.gg/q99CQEP) server, or on [My Website](https://atzu.xyz)
+- You can reach me on [Twitter](https://twitter.com/MrAzurnex), on my [Discord](https://discord.gg/q99CQEP) server, or on [My Website](https://atzu.studio)
 
 
 ## Maintained Projects
@@ -33,8 +33,8 @@ I've been coding for around 4 years now and still on the road to learn more.
 ## Personal Projects
 > **Updated since 12/02/2021**
 
-- [My Website](https://atzu.xyz/) 
+- [My Website](https://atzu.studio/) 
 - [Apis](https://apis.atzu.xyz/)
-- [Spotify Server](https://spotify.atzu.xyz/now-playing)
+- [Spotify Now Playing](https://spotify.atzu.studio/now-playing)
 - [Sharex Server](https://i.atzu.xyz/) 
-- [Hastebin](https://hb.atzu.xyz/)  
+- [Hastebin](https://hb.atzu.studio/)  
