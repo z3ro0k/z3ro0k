@@ -45,3 +45,7 @@ I've been coding for around 4 years now and still on the road to learn more.
 - [Spotify Now Playing](https://spotify.atzu.studio/now-playing)
 - [Sharex Server](https://i.atzu.studio/) 
 - [Hastebin](https://hb.atzu.studio/)  
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=z3ro0k&theme=merko&count_private=true&show_icons=true&hide_title=true&hide=stars" >
+</p>
