@@ -1,9 +1,10 @@
 ![](https://api.ghprofile.me/view?username=z3ro0k)
 
 ---
-
-**Now Playing** on Spotify
 <p align="center">
+    <strong>Now Playing</strong> on Spotify
+</p>
+<p align="center" style="font-size: 100px">
     <a href="https://spotify.atzu.studio/now-playing?open">
         <img src="https://spotify.atzu.studio/now-playing" width="256" height="64" alt="Now Playing">
     </a>
