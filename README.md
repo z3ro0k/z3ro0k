@@ -1,7 +1,9 @@
 <p align="center">
     <img src="https://api.ghprofile.me/view?username=z3ro0k" width="256" height="30" >
 </p>
+
 ---
+
 <p align="center">
     <strong>Now Playing</strong> on Spotify
 </p>
