@@ -3,11 +3,11 @@
 ---
 
 **Now Playing** on Spotify
-
-<a align="center" href="https://spotify.atzu.studio/now-playing?open">
-    <img src="https://spotify.atzu.studio/now-playing" width="256" height="64" alt="Now Playing">
-</a>
-
+<p align="center">
+    <a href="https://spotify.atzu.studio/now-playing?open">
+        <img src="https://spotify.atzu.studio/now-playing" width="256" height="64" alt="Now Playing">
+    </a>
+</p>
 <p align="center">
   <img src="https://spotify.atzu.studio/top-played">
 </p>
