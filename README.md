@@ -49,3 +49,6 @@ I've been coding for around 4 years now and still on the road to learn more.
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=z3ro0k&theme=merko&count_private=true&show_icons=true&hide_title=true&hide=stars" >
 </p>
+<p align="center">
+    <img src="http://invite.atzu.studio/svg/q99CQEP" >
+</p>
