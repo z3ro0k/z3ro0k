@@ -52,3 +52,7 @@ I've been coding for around 4 years now and still on the road to learn more.
 <p align="center">
     <img src="http://invite.atzu.studio/svg/q99CQEP" >
 </p>
+<p align="center">
+    <img src="https://lanyard-profile-readme.vercel.app/api/325414558623858698" >
+</p>
+
