@@ -47,12 +47,19 @@ I've been coding for around 4 years now and still on the road to learn more.
 - [Hastebin](https://hb.atzu.studio/)  
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=z3ro0k&theme=merko&count_private=true&show_icons=true&hide_title=true&hide=stars" >
-</p>
-<p align="center">
     <img src="http://invite.atzu.studio/svg/q99CQEP" >
 </p>
 <p align="center">
     <img src="https://lanyard-profile-readme.vercel.app/api/325414558623858698" >
 </p>
 
+<br>
+
+---
+<details>
+<summary>GitHub Stats</summary>
+<br>
+ 
+<p align="center">
+    <img src="https://metrics.lecoq.io/z3ro0k?template=classic&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMadrid&config.animated=true" >
+</p>
