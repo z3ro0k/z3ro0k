@@ -9,7 +9,7 @@
 </p>
 <p align="center" style="font-size: 100px">
     <a href="https://spotify.atzu.studio/now-playing?open">
-        <img src="https://spotify.atzu.studio/now-playing" width="256" height="64" alt="Now Playing">
+        <img src="https://spotify.atzu.studio/lanyard" alt="Now Playing">
     </a>
 </p>
 <p align="center">
