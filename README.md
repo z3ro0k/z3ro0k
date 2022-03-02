@@ -8,12 +8,12 @@
     <strong>Now Playing</strong> on Spotify
 </p>
 <p align="center" style="font-size: 100px">
-    <a href="https://spotify.atzu.studio/now-playing?open">
-        <img src="https://spotify.atzu.studio/now-playing" alt="Now Playing">
+    <a href="https://spotify.atzu.ml/now-playing?open">
+        <img src="https://spotify.atzu.ml/now-playing" alt="Now Playing">
     </a>
 </p>
 <p align="center">
-  <img src="https://spotify.atzu.studio/top-played">
+  <img src="https://spotify.atzu.ml/top-played">
 </p>
 
 
@@ -42,7 +42,7 @@ I've been coding for around 4 years now and still on the road to learn more.
 
 - [My Website](https://atzu.studio/) 
 - [Apis](https://api.atzu.studio)
-- [Spotify Now Playing](https://spotify.atzu.studio/now-playing)
+- [Spotify Now Playing](https://spotify.atzu.ml/now-playing)
 - [Sharex Server](https://i.atzu.studio/) 
 - [Hastebin](https://hb.atzu.studio/)  
 - [Polywork](https://poly.atzu.studio)
