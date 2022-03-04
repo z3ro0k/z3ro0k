@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://api.ghprofile.me/view?username=z3ro0k" width="256" height="30" >
+    <a href="https://spotify.atzu.ml/now-playing?open">
+        <img src="https://spotify.atzu.ml/lanyard" >
+    </a>
 </p>
 
 ---
@@ -7,26 +9,22 @@
 <p align="center">
     <strong>Now Playing</strong> on Spotify
 </p>
-<p align="center" style="font-size: 100px">
-    <a href="https://spotify.atzu.ml/now-playing?open">
-        <img src="https://spotify.atzu.ml/now-playing" alt="Now Playing">
+<p align="center">
+    <a href="https://spotify.atzu.ml/top-played">
+        <img src="https://spotify.atzu.ml/top-played">
     </a>
 </p>
-<p align="center">
-  <img src="https://spotify.atzu.ml/top-played">
-</p>
-
 
 # Hi there 👋 
 
 Hi my name is **Alexis**, but known as **Atzu** or **z3ro0k** over the internet and I am a 19 year old "fullstack" developer that spends time coding and building websites. 
-I've been coding for around 4 years now and still on the road to learn more.
+I've been coding for around 5 years now and still on the road to learn more.
 
 ## Fun Facts
 - I know the following languages: JavaScript, TypeScript, C#, Kotlin, Java, and Python
 - I plan to learn in the near future: Rust, Go, C++, and Dart
 - I work on too many stuff and never get them finished
-- You can reach me on [Twitter](https://twitter.com/MrAzurnex), on my [Discord](https://discord.gg/q99CQEP) server, or on [My Website](https://atzu.studio)
+- You can reach me on [Twitter](https://twitter.com/MrAzurnex), on my [Discord](https://discord.gg/q99CQEP) server, or on [My Website](https://atzu.ml)
 
 
 ## Maintained Projects
@@ -40,15 +38,15 @@ I've been coding for around 4 years now and still on the road to learn more.
 ## Personal Projects
 > **Updated since 10/12/2021**
 
-- [My Website](https://atzu.studio/) 
-- [Apis](https://api.atzu.studio)
+- [My Website](https://atzu.ml/) 
+- [Apis](https://api.atzu.ml)
 - [Spotify Now Playing](https://spotify.atzu.ml/now-playing)
-- [Sharex Server](https://i.atzu.studio/) 
-- [Hastebin](https://hb.atzu.studio/)  
-- [Polywork](https://poly.atzu.studio)
+- [Sharex Server](https://i.atzu.ml/) 
+- [Hastebin](https://hb.atzu.ml/)  
+- [Polywork](https://poly.atzu.ml)
 
 <p align="center">
-    <img src="http://invite.atzu.studio/svg/q99CQEP" >
+    <img src="http://invite.atzu.ml/svg/q99CQEP" >
 </p>
 <p align="center">
     <img src="https://lanyard-profile-readme.vercel.app/api/325414558623858698" >
