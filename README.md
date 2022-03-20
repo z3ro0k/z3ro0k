@@ -41,6 +41,7 @@ I've been coding for around 5 years now and still on the road to learn more.
 - [My Website](https://atzu.ml/) 
 - [Apis](https://api.atzu.ml)
 - [Spotify Now Playing](https://spotify.atzu.ml/now-playing)
+- [Cube Game](https://game.atzu.ml)
 - [Sharex Server](https://i.atzu.ml/) 
 - [Hastebin](https://hb.atzu.ml/)  
 - [Polywork](https://poly.atzu.ml)
