@@ -1,5 +1,11 @@
 <p align="center">
     <a href="https://spotify.atzu.ml/now-playing?open">
+        <img src="https://komarev.com/ghpvc/?username=z3ro0k&color=009999&style=for-the-badge" >
+    </a>
+</p> <!-- *(since 20th October 2020)* -->
+
+<p align="center">
+    <a href="https://spotify.atzu.ml/now-playing?open">
         <img src="https://spotify.atzu.ml/lanyard" >
     </a>
 </p>
