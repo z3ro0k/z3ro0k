@@ -56,7 +56,7 @@ I've been coding for around 5 years now and still on the road to learn more.
     <img src="http://invite.atzu.ml/svg/q99CQEP" >
 </p>
 <p align="center">
-    <img src="https://lanyard-profile-readme.vercel.app/api/325414558623858698" >
+    <img src="https://lanyard-profile-readme.vercel.app/api/325414558623858698?hideTimestamp=false&idleMessage=Just%20chillin...&bg=181c2f&borderRadius=0.35rem&v=0" >
 </p>
 
 <br>
