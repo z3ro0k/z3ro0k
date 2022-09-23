@@ -23,7 +23,7 @@
 
 # Hi there 👋 
 
-Hi my name is **Alexis**, but known as **Atzu** or **z3ro0k** over the internet and I am a 19 year old "fullstack" developer that spends time coding and building websites. 
+Hi my name is **Alexis**, but known as **Atzu** or **z3ro0k** over the internet and I am a 21 year old "fullstack" developer that spends time coding and building websites. 
 I've been coding for around 5 years now and still on the road to learn more.
 
 ## Fun Facts
@@ -44,7 +44,7 @@ I've been coding for around 5 years now and still on the road to learn more.
 ## Personal Projects
 > **Updated since 10/12/2021**
 
-- [My Website](https://atzu.ml/) 
+- [My Website](https://atzu.xyz/) 
 - [Apis](https://api.atzu.ml)
 - [Spotify Now Playing](https://spotify.atzu.ml/now-playing)
 - [Cube Game](https://game.atzu.ml)
