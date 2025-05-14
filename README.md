@@ -5,8 +5,8 @@
 </p> <!-- *(since 22th March 2022)* -->
 
 <p align="center">
-    <a href="https://spotify.atzu.ml/now-playing?open">
-        <img src="https://spotify.atzu.ml/lanyard" >
+    <a href="https://gitify.vercel.app/now-playing?open">
+        <img src="https://gitify.vercel.app/lanyard" >
     </a>
 </p>
 
@@ -16,8 +16,8 @@
     <strong>Now Playing</strong> on Spotify
 </p>
 <p align="center">
-    <a href="https://spotify.atzu.ml/top-played">
-        <img src="https://spotify.atzu.ml/top-played">
+    <a href="https://gitify.vercel.app/top-played">
+        <img src="https://gitify.vercel.app/top-played">
     </a>
 </p>
 
