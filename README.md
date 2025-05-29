@@ -44,19 +44,19 @@ I've been coding for around 5 years now and still on the road to learn more.
 ## Personal Projects
 > **Updated since 10/12/2021**
 
-- [My Website](https://atzu.xyz/) 
-- [Apis](https://api.atzu.ml)
-- [Spotify Now Playing](https://spotify.atzu.ml/now-playing)
-- [Cube Game](https://game.atzu.ml)
-- [Sharex Server](https://i.atzu.ml/) 
-- [Hastebin](https://hb.atzu.ml/)  
-- [Polywork](https://poly.atzu.ml)
+- [My Website](https://atzu.space/) 
+- [Apis](https://api.atzu.space)
+- [Spotify Now Playing](https://sp.atzu.space/now-playing)
+- [Cube Game](https://game.atzu.space)
+- [Sharex Server](https://i.atzu.space/) 
+- [Hastebin](https://hb.atzu.space/)  
+- [Polywork](https://poly.atzu.space)
 
 <p align="center">
-    <img src="http://invite.atzu.ml/svg/q99CQEP" >
+    <img src="http://invite.atzu.space/svg/q99CQEP" >
 </p>
 <p align="center">
-    <img src="https://lanyard-profile-readme.vercel.app/api/325414558623858698?hideTimestamp=false&idleMessage=Just%20chillin...&bg=181c2f&borderRadius=0.35rem&v=0" >
+   <a href="https://discord.com/users/855545331071451166"><img src="https://lanyard.cnrad.dev/api/855545331071451166?hideDiscrim=true&theme=dark" /></a>
 </p>
 
 <br>
@@ -66,4 +66,6 @@ I've been coding for around 5 years now and still on the road to learn more.
 <summary>GitHub Stats</summary>
 <br>
  
-![Metrics](https://metrics.lecoq.io/z3ro0k?template=classic&achievements=1&languages=1&people=1&introduction=1&gists=1&pagespeed=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&gists=false&introduction=false&introduction.title=true&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=.user.twitter&tweets.attachments=false&tweets.limit=2&config.timezone=America%2FMexico_City)
+<p align="center">
+   <a href="https://atzu.space"><img src="https://metrics.lecoq.io/z3ro0k?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FMexico_City" /></a>
+</p>
