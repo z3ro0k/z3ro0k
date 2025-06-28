@@ -20,6 +20,7 @@
         <img src="https://atzu.space/api/top-played" >
     </a>
 </p>
+
 # Hi there 👋 
 
 Hi my name is **Alexis**, but known as **Atzu** or **z3ro0k** over the internet and I am a 21 year old "fullstack" developer that spends time coding and building websites. 
