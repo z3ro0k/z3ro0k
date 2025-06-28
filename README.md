@@ -23,8 +23,8 @@
 
 # Hi there 👋 
 
-Hi my name is **Alexis**, but known as **Atzu** or **z3ro0k** over the internet and I am a 21 year old "fullstack" developer that spends time coding and building websites. 
-I've been coding for around 5 years now and still on the road to learn more.
+Hi my name is **Alexis**, but known as **Atzu** or **z3ro0k** over the internet and I am a 24 year old "fullstack" developer that spends time coding and building websites. 
+I've been coding for around 6 years now and still on the road to learn more.
 
 ## Fun Facts
 - I know the following languages: JavaScript, TypeScript, C#, Kotlin, Java, and Python
