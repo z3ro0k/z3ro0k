@@ -5,22 +5,21 @@
 </p> <!-- *(since 22th March 2022)* -->
 
 <p align="center">
-    <a href="https://gitify.vercel.app/now-playing?open">
-        <img src="https://gitify.vercel.app/lanyard" >
+    <strong>Now Playing</strong> on Spotify
+</p>
+<p align="center">
+    <a href="https://gitify.vercel.app/top-played">
+        <img src="">
     </a>
 </p>
 
 ---
 
 <p align="center">
-    <strong>Now Playing</strong> on Spotify
-</p>
-<p align="center">
-    <a href="https://gitify.vercel.app/top-played">
-        <img src="https://gitify.vercel.app/top-played">
+    <a href="https://gitify.vercel.app/now-playing?open">
+        <img src="https://atzu.space/api/top-played" >
     </a>
 </p>
-
 # Hi there 👋 
 
 Hi my name is **Alexis**, but known as **Atzu** or **z3ro0k** over the internet and I am a 21 year old "fullstack" developer that spends time coding and building websites. 
