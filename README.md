@@ -9,7 +9,7 @@
 </p>
 <p align="center">
     <a href="https://gitify.vercel.app/top-played">
-        <img src="">
+        <img src="https://atzu.space/api/sp-svg">
     </a>
 </p>
 
