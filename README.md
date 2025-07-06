@@ -53,7 +53,7 @@ I've been coding for around 6 years now and still on the road to learn more.
 - [Polywork](https://poly.atzu.space)
 
 <p align="center">
-    <img src="http://invite.atzu.space/svg/q99CQEP" >
+    <img src="https://invidget.switchblade.xyz/322209371704786945" >
 </p>
 <p align="center">
    <a href="https://discord.com/users/855545331071451166"><img src="https://lanyard.cnrad.dev/api/855545331071451166?hideDiscrim=true&theme=dark" /></a>
