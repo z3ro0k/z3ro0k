@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://spotify.atzu.ml/now-playing?open">
+        <img src="https://komarev.com/ghpvc/?username=z3ro0k&color=009999&style=for-the-badge" >
+    </a>
+</p> <!-- *(since 22th March 2022)* -->
+
 # Hi there 👋 
 
 Hi my name is **Alexis**, but known as **Atzu** or **z3ro0k** over the internet and I am a 24 year old "fullstack" developer that spends time coding and building websites. 
@@ -39,14 +45,10 @@ I've been coding for around 6 years now and still on the road to learn more.
 
 <br>
 
-Spofity history
+# Spofity history
+
 ---
 
-<p align="center">
-    <a href="https://spotify.atzu.ml/now-playing?open">
-        <img src="https://komarev.com/ghpvc/?username=z3ro0k&color=009999&style=for-the-badge" >
-    </a>
-</p> <!-- *(since 22th March 2022)* -->
 
 <p align="center">
     <strong>Now Playing</strong> on Spotify
