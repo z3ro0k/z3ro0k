@@ -3,6 +3,14 @@
         <img src="https://komarev.com/ghpvc/?username=z3ro0k&color=009999&style=for-the-badge" >
     </a>
 </p> <!-- *(since 22th March 2022)* -->
+<p align="center">
+    <strong>Now Playing</strong> on Spotify
+</p>
+<p align="center">
+    <a href="https://gitify.vercel.app/top-played">
+        <img src="https://atzu.space/api/sp-svg">
+    </a>
+</p>
 
 # Hi there 👋 
 
@@ -36,33 +44,25 @@ I've been coding for around 6 years now and still on the road to learn more.
 - [CDN Server](https://cdn.atzu.space/) 
 - [Hastebin](https://hb.atzu.space/)  
 
-<p align="center">
-    <img src="https://invidget.switchblade.xyz/322209371704786945" >
-</p>
-<p align="center">
-   <a href="https://discord.com/users/855545331071451166"><img src="https://lanyard.cnrad.dev/api/855545331071451166?hideDiscrim=true&theme=dark" /></a>
-</p>
-
 <br>
 
-# Spofity history
-
----
-
-
 <p align="center">
-    <strong>Now Playing</strong> on Spotify
-</p>
-<p align="center">
-    <a href="https://gitify.vercel.app/top-played">
-        <img src="https://atzu.space/api/sp-svg">
-    </a>
+    <strong>History</strong> on Spotify
 </p>
 
 ---
-
 <p align="center">
     <a href="https://gitify.vercel.app/now-playing?open">
         <img src="https://atzu.space/api/top-played" >
     </a>
+</p>
+
+## Discord Data
+<p align="center">
+    <a href="https://discord.gg/322209371704786945">
+        <img src="https://invidget.switchblade.xyz/322209371704786945" >
+    </a>
+</p>
+<p align="center">
+   <a href="https://discord.com/users/855545331071451166"><img src="https://lanyard.cnrad.dev/api/855545331071451166?hideDiscrim=true&theme=dark" /></a>
 </p>
